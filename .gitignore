@@ -1,0 +1,20 @@
+# local stuff
+.env
+
+# emacs junk
+*~
+*.el
+.dir-locals.el
+
+# python junk
+__pycache__/
+*.pyc
+.virtualenv
+venv
+
+# sql stuff
+*.db
+*.sqlite3
+*.sqlite
+*.sql
+db.*
