@@ -6,11 +6,15 @@
 *.el
 .dir-locals.el
 
+# vscode junk
+.vscode
+
 # python junk
 __pycache__/
 *.pyc
 .virtualenv
 venv
+migrations
 
 # sql stuff
 *.db
